@@ -1,4 +1,5 @@
-/*  C/S模型下的客户端   */
+/*  C/S模型下的客户端  
+    向服务段发生几次数据，并读取从服务端返回的数据*/
 
 #include <stdio.h>
 #include <stdlib.h>
